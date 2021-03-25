@@ -60,7 +60,6 @@ class App extends Component {
                  }else {
                    return photo
                  }
-          return 
         })
       
       this.setState({
